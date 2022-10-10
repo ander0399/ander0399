@@ -37,6 +37,5 @@ const aboutMe = {
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
      <a href="mailto:ander68@live.com"> 
 		<img src="https://img.icons8.com/doodle/1x/email--v2.png"></a>
-	
       </div>
 </p>
