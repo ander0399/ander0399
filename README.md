@@ -27,7 +27,8 @@ const aboutMe = {
 ```
 </br></br>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Proyects 👨‍💻</h3>
-
+  <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/anderson-de-jesus-escorcia-hernandez-aa389321b/">
+			<img src="https://github.com/ander0399/pfrestaurante/blob/main/client/src/assets/home/burger-header.png"></a>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝</h3>
 
