@@ -27,7 +27,7 @@ const aboutMe = {
 ```
 </br></br>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Proyects 👨‍💻</h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Projects 👨‍💻</h3>
 			<h3>PFRestaurante</h3>
  			 <a style="margin-left: 10px;"  target="_blank" href="https://pf-kiliss.vercel.app/">
 			<img src="https://github.com/ander0399/pfrestaurante/blob/main/client/src/assets/home/burger-header.png" height="300" width="400"></a>	       
