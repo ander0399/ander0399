@@ -20,7 +20,7 @@ const aboutMe = {
          java: ["Spring"],
          js: ["Node", "Express"],
       },
-      databases: ["Posgres", "SQLite", "Sequelize"],
+      databases: ["Posgres","mysql", "SQLite", "Sequelize"],
    },
    currentOccupation: ["last year student, open for job opportunities"],
 };
