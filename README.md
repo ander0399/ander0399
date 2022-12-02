@@ -28,9 +28,9 @@ const aboutMe = {
 </br></br>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Projects 👨‍💻</h3>
-			 <!--/<h3>PFRestaurante</h3>
+			 <!/<h3>PFRestaurante</h3>
  			 <a style="margin-left: 10px;"  target="_blank" href="https://pf-kiliss.vercel.app/">
-			<img src="https://github.com/ander0399/PFRestaurant/blob/main/logo.png" height="300" width="400"></a>-->	       
+			<img src="https://github.com/ander0399/PFRestaurant/blob/main/logo.png" height="300" width="400"></a>	       
 			<h3>Countries App</h3>
 			<a style="margin-left: 10px;"  target="_blank" href="https://pi-countries-henry-beta.vercel.app/">
 			<img src="https://github.com/ander0399/PI_COUNTRIES_HENRY/blob/main/countries.png" height="300" width="400"></a>
